@@ -16,7 +16,7 @@ The analysis investigates how demographic and antenatal variables relate to the 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Charts and Data Visualisation
+- Charts and Data Visualization
 - Descriptive Statistics
 
 ## Analytical Methods
@@ -39,3 +39,8 @@ The dataset may not represent the wider population of interest and the accuracy 
 - Analysis report
 - Dashboard screenshots
 ## Download Project Files
+## Download Project Files
+
+[Download Excel Dashboard](pregnancy-risk-dashboard.xlsx)
+
+[Download Analysis Report](maternal-health-dashboard.docx)
