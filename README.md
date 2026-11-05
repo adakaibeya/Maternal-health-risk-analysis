@@ -10,7 +10,8 @@ The analysis investigates how demographic and antenatal variables relate to the 
 1.	To examine the distribution of demographic and clinical variables within the dataset.
 2.	To compare antenatal variables between high-risk and low-risk pregnancy categories.
 3.	To investigate the association between maternal age and pregnancy risk classification.
-4.	To examine the relationship between selected physiological parameters and pregnancy risk classification.
+4.	To examinedocx
+ the relationship between selected physiological parameters and pregnancy risk classification.
 5.	To visualize the observed patterns and communicate the findings through an interactive dashboard.
 
 ## Tools Used
