@@ -25,7 +25,7 @@ The analysis investigates how demographic and antenatal variables relate to the 
 - Exploratory data analysis
 
 ## Dashboard Preview
-![Maternal Health Dashboard](images/dashboard.png)
+![Maternal Health Dashboard](images/dashboard.PNG)
 
 ## Key Findings
 High-risk pregnancies were recorded across different gestational ages. The majority of pregnant women in the dataset belonged to the 18–26-year age categories. Primigravida accounted for the highest number of pregnancies and high-risk pregnancy records.
