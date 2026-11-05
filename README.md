@@ -39,7 +39,6 @@ The dataset may not represent the wider population of interest and the accuracy 
 - Analysis report
 - Dashboard screenshots
 ## Download Project Files
-## Download Project Files
 
 [Download Excel Dashboard](pregnancy-risk-dashboard.xlsx)
 
